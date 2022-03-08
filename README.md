@@ -9,4 +9,4 @@ Single player AI is made via [minimax algorithm](https://en.wikipedia.org/wiki/M
 2. For single player, run Connect-4 with minimax AI.py. And for two players, run Connect-4.py
 
 ## App's UI/UX
-<img width="912" alt="image" src="https://user-images.githubusercontent.com/88189594/157214868-6acb47f6-cd04-4407-8de4-368049118d59.png">
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/88189594/157215112-efa8f0e2-f435-4492-b6f0-86b2bf601a86.png">
