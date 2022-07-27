@@ -217,7 +217,7 @@ RADIUS = int(SQUARESIZE/2 - 5)
 screen = pygame.display.set_mode(size)
 drawBoard(board)
 pygame.display.update()
-
+pygame.display.set_caption('Connect 4')
 myfont = pygame.font.SysFont("monospace", 75)
 
 turn = random.randint(PLAYER, AI)
